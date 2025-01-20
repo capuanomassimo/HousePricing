@@ -111,7 +111,7 @@ Random Forest excels at handling high-dimensional data and missing values while 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/housing-price-prediction.git
+   git clone https://github.com/capuanomassimo/HousePricing.git
    ```
 2. Install dependencies:
    ```bash
